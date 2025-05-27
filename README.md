@@ -10,4 +10,5 @@ trained on data from 2010 - 2024(pre RG)
 ✅ AUC: 0.900
 
 
-
+Sadly 2025 data was scarce, while I tried to rally everything I needed, there was a lot missing so I avoided making live predictions.
+Will rebuild for wimbledon with different strategy to assure better data and live predicitons
